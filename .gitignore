@@ -1,0 +1,21 @@
+/__pypackages__/
+/.pdm.toml
+*.py[codw]
+__pycache__/
+.pydevproject
+.DS_Store
+venv/
+media/
+*.log
+files/logs/
+uwsgi.sock
+*.pem
+
+# Folders to ignore
+.tmp
+.vscode/
+.idea/
+/idea/
+/myvenv
+
+db.sqlite3
